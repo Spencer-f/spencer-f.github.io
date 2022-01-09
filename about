@@ -1,0 +1,14 @@
+layout: page
+title: "About"
+permalink: /https://spencer-f.github.io/about
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>this is the about page.</h1>
+  </body>
+</html>
