@@ -18,3 +18,7 @@ My favorite video games, across all genres, are:
 3.  Hotline Miami
 4.  Rimworld
 5.  Children of the Nile
+
+## Articles
+
+[In Praise of Hand Crafted Worlds (July 6 2023)](./InPraiseofHandCraftedWorlds.md).
