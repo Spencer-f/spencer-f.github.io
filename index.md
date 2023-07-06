@@ -11,12 +11,10 @@ I don't know much about coding, and am testing this project from scratch. If you
 
 ## My Top 5 Games of All Time
 
-Tricky question! But I'd have to say the following:
+My favorite video games, across all generes, are:
 
-1.  Dwarf Fortress
-2.  Hotline Miami
-3.  Rimworld
-4.  Children of the Nile
-5.  Crusader Kings 3
-
-
+1.  Subnautica
+2.  Dwarf Fortress
+3.  Hotline Miami
+4.  Rimworld
+5.  Children of the Nile
