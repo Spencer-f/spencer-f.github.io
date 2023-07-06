@@ -11,7 +11,7 @@ I don't know much about coding, and am testing this project from scratch. If you
 
 ## My Top 5 Games of All Time
 
-My favorite video games, across all generes, are:
+My favorite video games, across all genres, are:
 
 1.  Subnautica
 2.  Dwarf Fortress
