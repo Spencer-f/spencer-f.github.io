@@ -25,4 +25,4 @@ My favorite video games, across all genres, are:
 
 ## Games
 
-[Steam Knights of the New West, an interactive story](./Steam_Knights_Demo/index.html).
+[Steam Knights of the New West, an interactive story](./Steam%20Knights%20Demo/index.html).
