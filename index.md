@@ -22,3 +22,7 @@ My favorite video games, across all genres, are:
 ## Articles
 
 [In Praise of Hand Crafted Worlds (July 6 2023)](./InPraiseofHandCraftedWorlds.md).
+
+## Games
+
+[Steam Knights of the New West, an interactive story](./Steam_Knights_Demo/index.html).
