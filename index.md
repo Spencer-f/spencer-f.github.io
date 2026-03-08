@@ -7,11 +7,17 @@ layout: default
 This is a blog about games. I write about board games, video games, and roleplaying games. I cover game design, game writing, and game reviews.
 
 ## About Me
-I don't know much about coding, and am testing this project from scratch. If you know how I can make a proper title page, shoot me an email at spencer.flash@gmail.com
+I'm a gamer and writer based in Brooklyn, NY. 
+
+Some of my unpublished projects include:
+
+"The Deep", an underwater-themed supplement to Mothership
+"Immortality, my Darlings!", A Pretty Little Liars TTRPG
+"Dickte Bolke", a WW1 dogfighting card game
 
 ## My Top 5 Games of All Time
 
-My favorite video games, across all genres, are:
+Some of my favorite video games, in no particular order:
 
 1.  Subnautica
 2.  Dwarf Fortress
@@ -26,3 +32,11 @@ My favorite video games, across all genres, are:
 ## Games
 
 [Steam Knights of the New West, an interactive story](./Steam%20Knights%20Demo/index.html).
+
+## Fiction
+
+See my substack for:
+An original anthology based on the Horrid Realm October writing prompts
+3 original horror stories
+
+[Read my substack here](https://substack.com/@spencerflash).
